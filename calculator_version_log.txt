@@ -1,0 +1,53 @@
+
+Calculator version log: 
+
+version 1.0.0 
+-created with basic features (+ - x  / ) 
+
+version 1.1.0 
+-added Pythagorus Theorem function.  
+ 
+version 1.1.1 
+-fixed issue with asking for a, b, c, on every function mode 
+
+version 1.2.0 
+-added function for solving quadratic equations 
+
+version 1.3.0
+-added a error for non number input
+-changed some wording
+
+version 1.3.1
+-fixed bug where answer not shown
+-fixed infinite answer strings 
+-corrected typos
+
+version 1.4.0
+-added function to solve circle using PI 
+-added exit function
+-changed aesthetics
+
+version 1.4.1 
+-improved pi calculation function
+-improved kill function
+-added more value error
+
+version  1.5.0
+-added T D S function
+-added previous option 
+-rewrote operation and command index 
+-added information page
+
+version 1.5.1
+-fixed physics section
+-added an error page 
+
+version 1.5.1 -matrix edition-
+-added secret code
+-matrix effect
+
+Upcoming improvements 
+- adding more physics equations 
+-put Pythagorus in own loop like with PI and psychics
+-calculas 
+-improve interface
