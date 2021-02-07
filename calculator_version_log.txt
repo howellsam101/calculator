@@ -54,6 +54,5 @@ version 1.5.3
 
 Upcoming improvements 
 - adding more physics equations 
--put Pythagorus in own loop like with PI and psychics
 -calculas 
--improve interface
+
