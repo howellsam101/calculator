@@ -42,9 +42,15 @@ version 1.5.1
 -fixed physics section
 -added an error page 
 
-version 1.5.1 -matrix edition-
+version 1.5.2 -matrix edition-
 -added secret code
 -matrix effect
+-changed interface
+
+version 1.5.3
+-cleaned up interface to make easier to navigate
+-re-wrote the code to make easy to read
+-minor errors fixed
 
 Upcoming improvements 
 - adding more physics equations 
