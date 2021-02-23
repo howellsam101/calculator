@@ -102,7 +102,7 @@ def basic():
             exit()
             
         else:
-            answer = eval(mode)
+            answer = eval(mode) #beware of using the eval function as it can be used to run system commands. more at https://realpython.com/python-eval-function/#:~:text=In%20this%20example%2C%20you%20use,of%20code%20in%20your%20machine. 
             while True:
                 print("--------------------------------------------------------------")
                 print(mode,"= ",answer)
